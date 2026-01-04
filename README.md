@@ -4,7 +4,7 @@
        HERO • NEON TYPING CONSOLE
   ============================= -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;CSE+Student+%40+UIU;Teaching+Assistant+%7C+Mentor;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Initializing+Mission..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md.+Abu+Bakar!;Full-Stack+Developer;CSE+Student+%40+UIU;Teaching+Assistant+%7C+Mentor;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Initializing+Mission..."
     alt="Typing SVG"
   />
 
