@@ -17,7 +17,7 @@
 <!-- Social / Contact Badges -->
 <p align="center">
   <a href="https://bakardev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-bd34fe?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/AbuBakar223200" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
